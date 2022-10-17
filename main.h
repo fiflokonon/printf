@@ -15,3 +15,5 @@ typedef struct op
 	char *c;
 	int (*f)(va_list);
 } op_t;
+
+#endif
