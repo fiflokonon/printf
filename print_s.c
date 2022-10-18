@@ -3,7 +3,7 @@
 
 /**
  * print_s - A function that prints a string
- * @s: string to print
+ * @s: string to print to output
  * Return: i
  */
 int print_s(va_list s)
