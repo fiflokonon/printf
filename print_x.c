@@ -5,7 +5,7 @@
  * print_x - A function that prints an ascii char value in
  * lowercase hexadecimal
  * @x: char to print
- * Return: number of printed characters
+ * Return: number of printed characters.
  */
 int print_x(va_list x)
 {
